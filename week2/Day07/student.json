@@ -1,0 +1,26 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun 11 16:26:17 2019
+
+@author: user
+"""
+import json
+
+{
+	"student": {
+		"first_name": "abhishek",
+		"last_name": "agarwal",
+		"photo": "desert.jpg",
+		"Department": "cs",
+		"Research_area": "Jaipur",
+		"Contact details": [{
+			"Phone_number": 239895896,
+			"Email_id": "yoabhi76@gmail.com"
+
+
+		}]
+	}
+
+
+
+}
